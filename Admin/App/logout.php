@@ -1,5 +1,5 @@
 <?php
 session_start();
 session_destroy();
-header('location: ../View/index.php');
+header('location: /../Admin/index.php');
 ?>
