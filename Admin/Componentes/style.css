@@ -1,0 +1,29 @@
+#btn-geral{
+  background-color: #cda45e;
+  color: #000000;
+}
+#btn-geral a:hover{
+  color: #ffffff;
+}
+#login-container{
+  margin-left: 30%;
+  margin-right: 30%;
+}
+@media only screen and (max-width: 600px) {
+  #login-container {
+    margin-left: 1%;
+    margin-right: 1%;
+  }
+}
+#total{
+  text-align: right;
+}
+#imagemPedido{
+  width: 80px;
+}
+#quantiaPedido{
+width: 30%;
+}
+#total-pedido{
+  text-align: right;
+}
